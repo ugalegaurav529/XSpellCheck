@@ -43,7 +43,7 @@ const XSpellCheck = () => {
 
   return (
     <div className="spell-check-container">
-      <h2>Real-Time Spell Check</h2>
+      <h2>Spell Check and Auto-Correction</h2>
       <textarea
         rows="5"
         cols="50"
